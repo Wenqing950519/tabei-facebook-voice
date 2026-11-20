@@ -1,0 +1,4 @@
+interface:
+  display_name: "TABEI 逐字稿轉粉專貼文"
+  short_description: "把訪談、演講與座談逐字稿寫成 TABEI Facebook 會後談與議題解說"
+  default_prompt: "使用 $tabei-facebook-voice，依逐字稿挑一個最值得讀者帶走的觀點，寫成協會粉專貼文。"
